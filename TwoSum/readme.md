@@ -1,4 +1,4 @@
-##Leetcode Problem
+## Leetcode Problem
 
 https://leetcode.com/problems/two-sum/
 
@@ -14,7 +14,7 @@ You can return the answer in any order.
  
 
 Example 1:
-
+```
 Input: nums = [2,7,11,15], target = 9
 Output: [0,1]
 Output: Because nums[0] + nums[1] == 9, we return [0, 1].
@@ -26,9 +26,9 @@ Example 3:
 
 Input: nums = [3,3], target = 6
 Output: [0,1]
+```
 
-
-##Sources
+## Sources
 
 Techsithtube, [Leetcode Two Sum Solution | Coding Interview Question](https://www.youtube.com/watch?v=_CoCO62fn_E)
 
