@@ -1,4 +1,4 @@
-##FizzBuzz Challenge
+## FizzBuzz Challenge
 
 rules:
     "FizzBuzz" if i is divisible by 3 and 5.
@@ -6,6 +6,6 @@ rules:
     "Buzz" if i is divisible by 5.
     i if non of the above conditions are true.
 
-##Sources
+## Sources
 
 Tom Scott:  [FizzBuzz: One Simple Interview Question](https://youtu.be/QPZ0pIK_wsc)
