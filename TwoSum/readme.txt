@@ -1,4 +1,4 @@
-Source:
+##Leetcode Problem
 
 https://leetcode.com/problems/two-sum/
 
@@ -26,3 +26,10 @@ Example 3:
 
 Input: nums = [3,3], target = 6
 Output: [0,1]
+
+
+##Sources
+
+Techsithtube, [Leetcode Two Sum Solution | Coding Interview Question](https://www.youtube.com/watch?v=_CoCO62fn_E)
+
+
