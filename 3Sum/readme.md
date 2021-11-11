@@ -22,20 +22,6 @@ Output: []
 
 ## Sources for Answer
 
-freeCodeCamp.org, [3Sum - The Daily Programmer #323](https://www.youtube.com/watch?v=Zdf_AuEAWpY)
+Sources for each attempt are under the corresponding function().
 
 
-## Notes
-
-pos: i, j, k
-[   0   1   2   3   ]
-[   -8  -7  5   2   ]
-i   i,j     i,j,k
--8  -8,-7   -8,-7,5
--7  -8,5    -8,-7,2
-5   -8,2    -8,5,2
-2   i+1     -7,5,2
-    -7,5
-    -7,2
-    i+1
-    5,2
